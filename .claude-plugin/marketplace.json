@@ -1,0 +1,5 @@
+{
+  "name": "claude-esc-interrupts",
+  "owner": { "name": "01-1" },
+  "plugins": [{ "name": "esc-interrupts", "source": "./" }]
+}

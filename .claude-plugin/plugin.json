@@ -1,0 +1,1 @@
+{ "name": "esc-interrupts", "version": "0.1.0", "description": "Esc always interrupts: a message cancelled before output stays sent instead of returning to the prompt box" }
